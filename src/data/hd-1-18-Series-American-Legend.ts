@@ -1,5 +1,6 @@
-// American Legend Special Series (1:18 Scale)
-const americanLegendSeries = [
+import type { IMotorcycle } from '@/interfaces/IMotorcycle';
+
+export const hd_1_18_Series_American_Legend: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
@@ -8,7 +9,8 @@ const americanLegendSeries = [
 		scale: '1:18',
 		productCode: '#39792',
 		color: '',
-		images: []
+		images: [],
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -18,7 +20,8 @@ const americanLegendSeries = [
 		scale: '1:18',
 		productCode: '#39750',
 		color: '',
-		images: []
+		images: [],
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -28,6 +31,7 @@ const americanLegendSeries = [
 		scale: '1:18',
 		productCode: '#39767',
 		color: '',
-		images: []
+		images: [],
+		catalogImage: ''
 	}
 ];

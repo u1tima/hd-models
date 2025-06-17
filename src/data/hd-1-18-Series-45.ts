@@ -1,4 +1,6 @@
-const harleyDavidsonSeries45 = [
+import type { IMotorcycle } from '@/interfaces/IMotorcycle';
+
+export const hd_1_18_Series_45: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
@@ -6,7 +8,9 @@ const harleyDavidsonSeries45 = [
 		name: '1988 FLT Tour Glide',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -15,7 +19,9 @@ const harleyDavidsonSeries45 = [
 		name: '2009 FXDFSE CVO Fat Bob',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -24,7 +30,9 @@ const harleyDavidsonSeries45 = [
 		name: '2024 Heritage Classic',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -33,7 +41,9 @@ const harleyDavidsonSeries45 = [
 		name: '2024 Street Glide',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -42,7 +52,9 @@ const harleyDavidsonSeries45 = [
 		name: '1952 K Model',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -51,6 +63,8 @@ const harleyDavidsonSeries45 = [
 		name: '2002 FXSTB Night Train',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	}
 ];

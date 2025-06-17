@@ -32,8 +32,106 @@ import { hd_1_18_Series_30 } from './hd-1-18-Series-30';
 import { hd_1_18_Series_31 } from './hd-1-18-Series-31';
 import { hd_1_18_Series_32 } from './hd-1-18-Series-32';
 import { hd_1_18_Series_33 } from './hd-1-18-Series-33';
+import { hd_1_18_Series_34 } from './hd-1-18-Series-34';
+import { hd_1_18_Series_35 } from './hd-1-18-Series-35';
+import { hd_1_18_Series_36 } from './hd-1-18-Series-36';
+import { hd_1_18_Series_37 } from './hd-1-18-Series-37';
+import { hd_1_18_Series_38 } from './hd-1-18-Series-38';
+import { hd_1_18_Series_39 } from './hd-1-18-Series-39';
+import { hd_1_18_Series_40 } from './hd-1-18-Series-40';
+import { hd_1_18_Series_41 } from './hd-1-18-Series-41';
+import { hd_1_18_Series_42 } from './hd-1-18-Series-42';
+import { hd_1_18_Series_43 } from './hd-1-18-Series-43';
+import { hd_1_18_Series_44 } from './hd-1-18-Series-44';
+import { hd_1_18_Series_45 } from './hd-1-18-Series-45';
+import { hd_1_18_Series_American_Legend } from './hd-1-18-Series-American-Legend';
+import { hd_1_18_Series_Sons_of_Anarchy } from './hd-1-18-Series-Sons-Of-Anarchy';
 
 export const hd_1_18: Array<ISeriesMotorcycle> = [
+	{
+		brand: 'Maisto',
+		name: 'Sons of Anarchy Collection',
+		models: hd_1_18_Series_Sons_of_Anarchy,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'American Legend Collection',
+		models: hd_1_18_Series_American_Legend,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 45 Collection',
+		models: hd_1_18_Series_45,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 44 Collection',
+		models: hd_1_18_Series_44,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 43 Collection',
+		models: hd_1_18_Series_43,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 42 Collection',
+		models: hd_1_18_Series_42,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 41 Collection',
+		models: hd_1_18_Series_41,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 40 Collection',
+		models: hd_1_18_Series_40,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 39 Collection',
+		models: hd_1_18_Series_39,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 38 Collection',
+		models: hd_1_18_Series_38,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 37 Collection',
+		models: hd_1_18_Series_37,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 36 Collection',
+		models: hd_1_18_Series_36,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 35 Collection',
+		models: hd_1_18_Series_35,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 34 Collection',
+		models: hd_1_18_Series_34,
+		scale: ''
+	},
 	{
 		brand: 'Maisto',
 		name: 'Series 33 Collection',

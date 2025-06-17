@@ -1,4 +1,6 @@
-const harleyDavidsonSeries42 = [
+import type { IMotorcycle } from '@/interfaces/IMotorcycle';
+
+export const hd_1_18_Series_42: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
@@ -6,7 +8,9 @@ const harleyDavidsonSeries42 = [
 		name: '1999 FLSTS Heritage Softail Springer',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -15,7 +19,9 @@ const harleyDavidsonSeries42 = [
 		name: '2002 FLTR Road Glide',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -24,7 +30,9 @@ const harleyDavidsonSeries42 = [
 		name: '2011 XR 1200X',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -33,7 +41,9 @@ const harleyDavidsonSeries42 = [
 		name: '2013 FLHTK Electra Glide Ultra Limited',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -42,7 +52,9 @@ const harleyDavidsonSeries42 = [
 		name: '2009 FXDFSE CVO Fat Bob',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -51,6 +63,8 @@ const harleyDavidsonSeries42 = [
 		name: 'Fat Bob 114',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	}
 ];

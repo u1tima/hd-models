@@ -1,4 +1,6 @@
-const harleyDavidsonSeries44 = [
+import type { IMotorcycle } from '@/interfaces/IMotorcycle';
+
+export const hd_1_18_Series_44: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
@@ -6,7 +8,9 @@ const harleyDavidsonSeries44 = [
 		name: '2006 Dyna Street Bob',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -15,7 +19,9 @@ const harleyDavidsonSeries44 = [
 		name: '1966 FLH Electra Glide',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -24,7 +30,9 @@ const harleyDavidsonSeries44 = [
 		name: '1984 FXST Softail',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -33,7 +41,9 @@ const harleyDavidsonSeries44 = [
 		name: '2023 Heritage Classic',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -42,7 +52,9 @@ const harleyDavidsonSeries44 = [
 		name: '2023 Pan America 1250 Special',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -51,6 +63,8 @@ const harleyDavidsonSeries44 = [
 		name: '2022 CVO Road Glide',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	}
 ];

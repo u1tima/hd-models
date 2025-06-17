@@ -1,4 +1,6 @@
-const harleyDavidsonSeries40 = [
+import type { IMotorcycle } from '@/interfaces/IMotorcycle';
+
+export const hd_1_18_Series_40: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
@@ -6,7 +8,9 @@ const harleyDavidsonSeries40 = [
 		name: '1953 FL Hydra Glide',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -15,7 +19,9 @@ const harleyDavidsonSeries40 = [
 		name: '1999 FLHR Road King',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -24,7 +30,9 @@ const harleyDavidsonSeries40 = [
 		name: '2015 Harley-Davidson Street 750',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -33,7 +41,9 @@ const harleyDavidsonSeries40 = [
 		name: '2016 Breakout',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -42,7 +52,9 @@ const harleyDavidsonSeries40 = [
 		name: '2018 CVO Road Glide',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	},
 	{
 		manufacture: 'Maisto',
@@ -51,6 +63,8 @@ const harleyDavidsonSeries40 = [
 		name: 'XR750',
 		scale: '1:18',
 		color: '',
-		images: []
+		images: [],
+		productCode: '',
+		catalogImage: ''
 	}
 ];

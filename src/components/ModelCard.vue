@@ -28,6 +28,9 @@
 			<span>action 1</span>
 			<span>action 1</span>
 		</template> -->
+		<!-- <template #title>
+			<span>{{ model.name }}</span>
+		</template> -->
 		<CardMeta :title="model.name" />
 	</Card>
 </template>
