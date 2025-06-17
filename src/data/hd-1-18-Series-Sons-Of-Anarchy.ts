@@ -1,0 +1,57 @@
+// Sons of Anarchy Collection (Special Series)
+const sonsOfAnarchySeries = [
+	{
+		manufacture: 'Maisto',
+		brand: 'Harley-Davidson',
+		series: 'Sons of Anarchy Collection',
+		name: '2006 Dyna Super Glide Sport - Clay Morrow',
+		scale: '1:18',
+		color: '',
+		images: [],
+	},
+	{
+		manufacture: 'Maisto',
+		brand: 'Harley-Davidson',
+		series: 'Sons of Anarchy Collection',
+		name: '2006 Dyna Super Glide Sport - Jax Teller',
+		scale: '1:18',
+		color: '',
+		images: [],
+	},
+	{
+		manufacture: 'Maisto',
+		brand: 'Harley-Davidson',
+		series: 'Sons of Anarchy Collection',
+		name: '2006 FXDBI Dyna Street Bob - Tig Trager',
+		scale: '1:18',
+		color: '',
+		images: [],
+	},
+	{
+		manufacture: 'Maisto',
+		brand: 'Harley-Davidson',
+		series: 'Sons of Anarchy Collection',
+		name: '2001 Dyna Super Glide Sport - Opie Winston',
+		scale: '1:18',
+		color: '',
+		images: [],
+	},
+	{
+		manufacture: 'Maisto',
+		brand: 'Harley-Davidson',
+		series: 'Sons of Anarchy Collection',
+		name: '1946 FL Knucklehead - JT Teller',
+		scale: '1:18',
+		color: '',
+		images: [],
+	},
+	{
+		manufacture: 'Maisto',
+		brand: 'Harley-Davidson',
+		series: 'Sons of Anarchy Collection',
+		name: '2006 FXDBI Dyna Street Bob - Chibs Telford',
+		scale: '1:18',
+		color: '',
+		images: [],
+	}
+];
