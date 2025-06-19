@@ -9,7 +9,7 @@ export const hd_1_18_Series_4: IMotorcycle[] = [
 		series: 'Series 4 Law Enforcement',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-04/S-04-01 New York Police Department.jpg',
 		images: []
 	},
 	{
@@ -20,7 +20,7 @@ export const hd_1_18_Series_4: IMotorcycle[] = [
 		series: 'Series 4 Law Enforcement',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-04/S-04-02 Milwaukee Police Department.jpg',
 		images: []
 	},
 	{
@@ -31,7 +31,7 @@ export const hd_1_18_Series_4: IMotorcycle[] = [
 		series: 'Series 4 Law Enforcement',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-04/S-04-03 Virginia State Police.jpg',
 		images: []
 	},
 	{
@@ -42,7 +42,7 @@ export const hd_1_18_Series_4: IMotorcycle[] = [
 		series: 'Series 4 Law Enforcement',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-04/S-04-04 California Highway Patrol.jpg',
 		images: []
 	},
 	{
@@ -53,7 +53,7 @@ export const hd_1_18_Series_4: IMotorcycle[] = [
 		series: 'Series 4 Law Enforcement',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-04/S-04-05 Florida Highway Patrol.jpg',
 		images: []
 	},
 	{
@@ -64,7 +64,7 @@ export const hd_1_18_Series_4: IMotorcycle[] = [
 		series: 'Series 4 Law Enforcement',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-04/S-04-06 Boston Police Department.jpg',
 		images: []
 	}
 ];
