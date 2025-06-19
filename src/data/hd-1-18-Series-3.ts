@@ -9,7 +9,7 @@ export const hd_1_18_Series_3: IMotorcycle[] = [
 		series: 'Series 4 Law Enforcement',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'S-03-01 1998 FLHT Electra Glide 01.jpg',
+		catalogImage: 'hd-1-18/series-03/S-03-01 1998 FLHT Electra Glide.jpg',
 		images: [],
 	},
 	{
@@ -20,7 +20,7 @@ export const hd_1_18_Series_3: IMotorcycle[] = [
 		series: 'Series 3 95th Anniversary',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'S-03-02 1998 XL 1200C Sportster 1200 Custom 01.jpg',
+		catalogImage: 'hd-1-18/series-03/S-03-02 1998 XL1200C Sportster 1200 Custom.jpg',
 		images: [],
 	},
 	{
@@ -31,7 +31,7 @@ export const hd_1_18_Series_3: IMotorcycle[] = [
 		series: 'Series 3 95th Anniversary',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-03/S-03-03 1998 FXDWG Dyna Wide Glide.jpg',
 		images: [],
 	},
 	{
@@ -42,7 +42,7 @@ export const hd_1_18_Series_3: IMotorcycle[] = [
 		series: 'Series 3 95th Anniversary',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-03/S-03-04 1998 FLHR Road King.jpg',
 		images: [],
 	},
 	{
@@ -53,7 +53,7 @@ export const hd_1_18_Series_3: IMotorcycle[] = [
 		series: 'Series 3 95th Anniversary',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-03/S-03-05 1998 FLSTS Heritage Springer.jpg',
 		images: [],
 	},
 	{
@@ -64,7 +64,7 @@ export const hd_1_18_Series_3: IMotorcycle[] = [
 		series: 'Series 3 95th Anniversary',
 		scale: '1:18',
 		color: '',
-		catalogImage: '',
+		catalogImage: 'hd-1-18/series-03/S-03-06 1998 FLSTF Fat Boy.jpg',
 		images: [],
 	}
 ];

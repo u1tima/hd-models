@@ -38,7 +38,7 @@
 		}
 
 		&>.ant-card-body {
-			background-color: $series-card-body-bg;
+			// background-color: $series-card-body-bg;
 		}
 
 		.ant-card-body {

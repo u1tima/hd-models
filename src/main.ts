@@ -1,4 +1,3 @@
-// import 'ant-design-vue/dist/reset.css';
 import '@/scss/main.scss';
 
 import { createApp } from 'vue';
