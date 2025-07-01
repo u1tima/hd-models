@@ -6,6 +6,12 @@ import { AntDesignVueResolver } from 'unplugin-vue-components/resolvers';
 
 // https://vite.dev/config/
 export default defineConfig({
+	server: {
+		open: true,
+		watch: {
+			usePolling: true,
+		},
+	},
 	build: {
 		sourcemap: true,
 		cssMinify: false,

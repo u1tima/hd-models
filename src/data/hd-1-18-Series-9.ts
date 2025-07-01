@@ -4,13 +4,13 @@ export const hd_1_18_Series_9: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
-		name: '1937 Arkansas State Police',
+		name: 'Arkansas State Police',
 		productCode: '#39719',
 		series: 'Series 9 Collection',
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-09/S-09-01-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -21,7 +21,7 @@ export const hd_1_18_Series_9: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-09/S-09-02-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -32,7 +32,7 @@ export const hd_1_18_Series_9: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-09/S-09-03-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -43,7 +43,7 @@ export const hd_1_18_Series_9: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-09/S-09-04-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -54,7 +54,7 @@ export const hd_1_18_Series_9: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-09/S-09-05-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -65,6 +65,6 @@ export const hd_1_18_Series_9: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-09/S-09-06-Photoroom.jpg'
 	}
 ];

@@ -34,7 +34,7 @@
 		}
 
 		&>.ant-card-head {
-			background-color: $series-card-title-bg;
+			background-color: $series-card-body-bg;
 		}
 
 		&>.ant-card-body {
@@ -44,7 +44,7 @@
 		.ant-card-body {
 			display: grid;
 			gap: 20px;
-			grid-template-columns: repeat(3, 350px);
+			grid-template-columns: repeat(3, 300px);
 
 			&::before,
 			&::after {

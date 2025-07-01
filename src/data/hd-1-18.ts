@@ -204,96 +204,96 @@ export const hd_1_18: Array<ISeriesMotorcycle> = [
 	// 	models: hd_1_18_Series_22,
 	// 	scale: ''
 	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 21 Collection',
-	// 	models: hd_1_18_Series_21,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 20 Collection',
-	// 	models: hd_1_18_Series_20,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 19 Collection',
-	// 	models: hd_1_18_Series_19,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 18 Collection',
-	// 	models: hd_1_18_Series_18,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 17 Collection',
-	// 	models: hd_1_18_Series_17,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 16 Collection',
-	// 	models: hd_1_18_Series_16,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 15 Collection',
-	// 	models: hd_1_18_Series_15,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 14 Collection',
-	// 	models: hd_1_18_Series_14,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 13 Collection',
-	// 	models: hd_1_18_Series_13,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 12 Collection',
-	// 	models: hd_1_18_Series_12,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 11 Collection',
-	// 	models: hd_1_18_Series_11,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 10 Collection',
-	// 	models: hd_1_18_Series_10,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 9 Collection',
-	// 	models: hd_1_18_Series_9,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 8 Collection',
-	// 	models: hd_1_18_Series_8,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 7 Collection',
-	// 	models: hd_1_18_Series_7,
-	// 	scale: ''
-	// },
+	{
+		brand: 'Maisto',
+		name: 'Series 21 Collection',
+		models: hd_1_18_Series_21,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 20 Collection',
+		models: hd_1_18_Series_20,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 19 Collection',
+		models: hd_1_18_Series_19,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 18 Collection',
+		models: hd_1_18_Series_18,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 17 Collection',
+		models: hd_1_18_Series_17,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 16 Collection',
+		models: hd_1_18_Series_16,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 15 Collection',
+		models: hd_1_18_Series_15,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 14 Collection',
+		models: hd_1_18_Series_14,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 13 Collection',
+		models: hd_1_18_Series_13,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 12 Collection',
+		models: hd_1_18_Series_12,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 11 Collection',
+		models: hd_1_18_Series_11,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 10 Collection',
+		models: hd_1_18_Series_10,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 9 Collection',
+		models: hd_1_18_Series_9,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 8 Collection',
+		models: hd_1_18_Series_8,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 7 Collection',
+		models: hd_1_18_Series_7,
+		scale: ''
+	},
 	{
 		brand: 'Maisto',
 		name: 'Series 6 1999 Motorcycles',

@@ -10,18 +10,18 @@ export const hd_1_18_Series_11: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-11/S-11-01-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
-		name: '2001 FLHRCI Road King Classic',
+		name: '2001 FLHRC Road King Classic',
 		productCode: '#39729',
 		series: 'Series 11 Collection',
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-11/S-11-02-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -32,7 +32,7 @@ export const hd_1_18_Series_11: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-11/S-11-03-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -43,18 +43,18 @@ export const hd_1_18_Series_11: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-11/S-11-04-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
-		name: '1978 FLH-74 Electra Glide',
+		name: '1978 FLH-80 Electra Glide',
 		productCode: '#39730',
 		series: 'Series 11 Collection',
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-11/S-11-05-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -65,6 +65,6 @@ export const hd_1_18_Series_11: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-11/S-11-06-Photoroom.jpg'
 	}
 ];

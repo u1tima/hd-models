@@ -9,7 +9,7 @@ export const hd_1_18_Series_1: IMotorcycle[] = [
 		series: 'Series 1 1997 Motorcycles',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'hd-1-18/series-01/S-01-01 1997 FLHT Electra Glide Standard.jpg',
+		catalogImage: 'hd-1-18/series-01/S-01-01-Photoroom.jpg',
 		images: []
 	},
 	{
@@ -20,7 +20,7 @@ export const hd_1_18_Series_1: IMotorcycle[] = [
 		series: 'Series 1 1997 Motorcycles',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'hd-1-18/series-01/S-01-02 1997 XLH Sportster 1200.jpg',
+		catalogImage: 'hd-1-18/series-01/S-01-02-Photoroom.jpg',
 		images: []
 	},
 	{
@@ -31,7 +31,7 @@ export const hd_1_18_Series_1: IMotorcycle[] = [
 		series: 'Series 1 1997 Motorcycles',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'hd-1-18/series-01/S-01-03 1997 FXSTSB Bad Boy.jpg',
+		catalogImage: 'hd-1-18/series-01/S-01-03-Photoroom.jpg',
 		images: []
 	},
 	{
@@ -42,7 +42,7 @@ export const hd_1_18_Series_1: IMotorcycle[] = [
 		series: 'Series 1 1997 Motorcycles',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'hd-1-18/series-01/S-01-04 1997 FLHR Road King.jpg',
+		catalogImage: 'hd-1-18/series-01/S-01-04-Photoroom.jpg',
 		images: []
 	},
 	{
@@ -53,7 +53,7 @@ export const hd_1_18_Series_1: IMotorcycle[] = [
 		series: 'Series 1 1997 Motorcycles',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'hd-1-18/series-01/S-01-05 1997 XL 1200C Sportster 1200 Custom.jpg',
+		catalogImage: 'hd-1-18/series-01/S-01-05-Photoroom.jpg',
 		images: []
 	},
 	{
@@ -64,7 +64,7 @@ export const hd_1_18_Series_1: IMotorcycle[] = [
 		series: 'Series 1 1997 Motorcycles',
 		scale: '1:18',
 		color: '',
-		catalogImage: 'hd-1-18/series-01/S-01-06 1997 FLSTS Heritage Springer.jpg',
+		catalogImage: 'hd-1-18/series-01/S-01-06-Photoroom.jpg',
 		images: []
 	}
 ];
