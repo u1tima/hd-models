@@ -26,7 +26,7 @@ export const hd_1_18_Series_11: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
-		name: '1953 74FL Hydra-Glide',
+		name: '1953 74FL Hydra Glide',
 		productCode: '#39731',
 		series: 'Series 11 Collection',
 		scale: '1:18',

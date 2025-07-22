@@ -150,60 +150,60 @@ export const hd_1_18: Array<ISeriesMotorcycle> = [
 	// 	models: hd_1_18_Series_31,
 	// 	scale: ''
 	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 30 Collection',
-	// 	models: hd_1_18_Series_30,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 29 Collection',
-	// 	models: hd_1_18_Series_29,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 28 Collection',
-	// 	models: hd_1_18_Series_28,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 27 Collection',
-	// 	models: hd_1_18_Series_27,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 26 Collection',
-	// 	models: hd_1_18_Series_26,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 25 Collection',
-	// 	models: hd_1_18_Series_25,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 24 Collection',
-	// 	models: hd_1_18_Series_24,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 23 Collection',
-	// 	models: hd_1_18_Series_23,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 22 Collection',
-	// 	models: hd_1_18_Series_22,
-	// 	scale: ''
-	// },
+	{
+		brand: 'Maisto',
+		name: 'Series 30 Collection',
+		models: hd_1_18_Series_30,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 29 Collection',
+		models: hd_1_18_Series_29,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 28 Collection',
+		models: hd_1_18_Series_28,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 27 Collection',
+		models: hd_1_18_Series_27,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 26 Collection',
+		models: hd_1_18_Series_26,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 25 Collection',
+		models: hd_1_18_Series_25,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 24 Collection',
+		models: hd_1_18_Series_24,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 23 Collection',
+		models: hd_1_18_Series_23,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 22 Collection',
+		models: hd_1_18_Series_22,
+		scale: ''
+	},
 	{
 		brand: 'Maisto',
 		name: 'Series 21 Collection',

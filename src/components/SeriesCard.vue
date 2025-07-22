@@ -44,7 +44,7 @@
 		.ant-card-body {
 			display: grid;
 			gap: 20px;
-			grid-template-columns: repeat(3, 300px);
+			grid-template-columns: repeat(3, 450px);
 
 			&::before,
 			&::after {

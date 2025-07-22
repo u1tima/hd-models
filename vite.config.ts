@@ -8,6 +8,7 @@ import { AntDesignVueResolver } from 'unplugin-vue-components/resolvers';
 export default defineConfig({
 	server: {
 		open: true,
+		host: true,
 		watch: {
 			usePolling: true,
 		},
