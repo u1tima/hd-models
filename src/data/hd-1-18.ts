@@ -120,24 +120,24 @@ export const hd_1_18: Array<ISeriesMotorcycle> = [
 	// 	models: hd_1_18_Series_36,
 	// 	scale: ''
 	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 35 Collection',
-	// 	models: hd_1_18_Series_35,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 34 Collection',
-	// 	models: hd_1_18_Series_34,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 33 Collection',
-	// 	models: hd_1_18_Series_33,
-	// 	scale: ''
-	// },
+	{
+		brand: 'Maisto',
+		name: 'Series 35 Collection',
+		models: hd_1_18_Series_35,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 34 Collection',
+		models: hd_1_18_Series_34,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 33 Collection',
+		models: hd_1_18_Series_33,
+		scale: ''
+	},
 	{
 		brand: 'Maisto',
 		name: 'Series 32 Collection',

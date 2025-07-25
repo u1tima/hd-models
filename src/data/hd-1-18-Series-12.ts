@@ -48,7 +48,7 @@ export const hd_1_18_Series_12: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
-		name: '1958 FLH Duo-Glide',
+		name: '1958 FLH Duo Glide',
 		productCode: '',
 		series: 'Series 12 Collection',
 		scale: '1:18',
