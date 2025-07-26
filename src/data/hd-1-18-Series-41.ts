@@ -10,7 +10,7 @@ export const hd_1_18_Series_41: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-41/S-41-01-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -21,7 +21,7 @@ export const hd_1_18_Series_41: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-41/S-41-02-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -32,7 +32,7 @@ export const hd_1_18_Series_41: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-41/S-41-03-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -43,7 +43,7 @@ export const hd_1_18_Series_41: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-41/S-41-04-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -54,7 +54,7 @@ export const hd_1_18_Series_41: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-41/S-41-05-Photoroom.jpg'
 	},
 	{
 		manufacture: 'Maisto',
@@ -65,6 +65,6 @@ export const hd_1_18_Series_41: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: ''
+		catalogImage: 'hd-1-18/series-41/S-41-06-Photoroom.jpg'
 	}
 ];
