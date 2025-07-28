@@ -48,42 +48,42 @@ import { hd_1_18_Series_American_Legend } from './hd-1-18-Series-American-Legend
 import { hd_1_18_Series_Sons_of_Anarchy } from './hd-1-18-Series-Sons-Of-Anarchy';
 
 export const hd_1_18: Array<ISeriesMotorcycle> = [
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Sons of Anarchy Collection',
-	// 	models: hd_1_18_Series_Sons_of_Anarchy,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'American Legend Collection',
-	// 	models: hd_1_18_Series_American_Legend,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 45 Collection',
-	// 	models: hd_1_18_Series_45,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 44 Collection',
-	// 	models: hd_1_18_Series_44,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 43 Collection',
-	// 	models: hd_1_18_Series_43,
-	// 	scale: ''
-	// },
-	// {
-	// 	brand: 'Maisto',
-	// 	name: 'Series 42 Collection',
-	// 	models: hd_1_18_Series_42,
-	// 	scale: ''
-	// },
+	{
+		brand: 'Maisto',
+		name: 'Sons of Anarchy Collection',
+		models: hd_1_18_Series_Sons_of_Anarchy,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'American Legend Collection',
+		models: hd_1_18_Series_American_Legend,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 45 Collection',
+		models: hd_1_18_Series_45,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 44 Collection',
+		models: hd_1_18_Series_44,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 43 Collection',
+		models: hd_1_18_Series_43,
+		scale: ''
+	},
+	{
+		brand: 'Maisto',
+		name: 'Series 42 Collection',
+		models: hd_1_18_Series_42,
+		scale: ''
+	},
 	{
 		brand: 'Maisto',
 		name: 'Series 41 Collection',
