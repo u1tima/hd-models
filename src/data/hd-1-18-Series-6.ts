@@ -15,7 +15,7 @@ export const hd_1_18_Series_6: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
-		name: '1999 FLSTS Heritage Springer',
+		name: '1999 FLSTS Heritage Softail Springer',
 		productCode: '#39393',
 		series: 'Series 6 1999 Motorcycles',
 		scale: '1:18',
