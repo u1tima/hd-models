@@ -1,0 +1,37 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"main": "dist/src/index.js",
+	"typings": "dist/src/index.d.ts",
+	"author": "Vitali Semashkevich",
+	"license": "",
+	"scripts": {
+		"clean": "rm -rf node_modules && rm -rf dist",
+		"build": "rm -rf dist && esbuild --outdir=dist --sourcemap --bundle --platform=node ./src/index.ts",
+		"compile": "tsc",
+		"compile:watch": "tsc -w",
+		"dev": "nodemon --watch src --watch test --ext ts,json --exec \"yarn build && yarn start\"",
+		"debug": "yarn build && node --enable-source-maps --inspect-brk ./dist/index.js",
+		"debug:test": "node --inspect-brk ./node_modules/.bin/jest --runInBand .",
+		"start": "node --enable-source-maps --env-file=config.env ./dist/index.js",
+		"lint": "eslint . --fix"
+	},
+	"dependencies": {
+		"@types/cors": "2.8.19",
+		"dotenv": "17.2.1",
+		"express": "5.1.0"
+	},
+	"devDependencies": {
+		"@types/express": "5.0.3",
+		"@types/node": "24.1.0",
+		"@typescript-eslint/eslint-plugin": "8.38.0",
+		"@typescript-eslint/parser": "8.38.0",
+		"cors": "2.8.5",
+		"esbuild": "0.25.8",
+		"eslint": "9.32.0",
+		"helmet": "8.1.0",
+		"mysql2": "3.14.2",
+		"nodemon": "3.1.10",
+		"typescript": "5.8.3"
+	}
+}
