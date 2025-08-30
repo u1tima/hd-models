@@ -8,4 +8,6 @@ export interface IMotorcycle {
 	color?: string;
 	catalogImage: string;
 	images: string[];
+	isEnabled?: boolean;
+	isOrdered?: boolean;
 }

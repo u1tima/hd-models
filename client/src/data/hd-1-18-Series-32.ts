@@ -65,6 +65,7 @@ export const hd_1_18_Series_32: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-32/S-32-06-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-32/S-32-06-Photoroom.jpg',
+		isEnabled: true,
 	}
 ];

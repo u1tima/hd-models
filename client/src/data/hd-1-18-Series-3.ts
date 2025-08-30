@@ -11,6 +11,7 @@ export const hd_1_18_Series_3: IMotorcycle[] = [
 		color: '',
 		catalogImage: 'hd-1-18/series-03/S-03-01 1998 FLHT Electra Glide.jpg',
 		images: [],
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',

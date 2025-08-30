@@ -1,6 +1,6 @@
 <script setup lang="ts">
 	import { defineComponent, ref, watch } from 'vue';
-	import { InputSearch, Select } from 'ant-design-vue';
+	import { InputSearch, Select, Checkbox } from 'ant-design-vue';
 	import { useModelStore } from '@/stores';
 
 	defineComponent({
@@ -8,13 +8,14 @@
 	});
 
 	const modelName = ref<string>('');
+	const isOrdered = ref(false);
 	const manufacture = ref<string[]>(['modimio-id']);
 	const brand = ref<string[]>(['hd']);
 	const scale = ref<string[]>(['1:18']);
 
 	const { search } = useModelStore();
 
-	watch(modelName, () => search(modelName.value));
+	watch([modelName, isOrdered], () => search(modelName.value, isOrdered.value));
 
 	const manufactureOptions = [
 		{
@@ -82,6 +83,7 @@
 				allowClear
 				placeholder="Select scale"
 				class="scale-select" />
+		<Checkbox v-model:checked="isOrdered">Ordered</Checkbox>
 	</div>
 </template>
 

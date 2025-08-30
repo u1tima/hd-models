@@ -20,5 +20,5 @@ server.listen(port, host, () => {
 });
 
 server.get('/', (_req, res) => {
-	res.send('Hello World!')
+	res.json({ message: 'Hello, World!' })
 })

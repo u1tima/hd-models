@@ -59,12 +59,13 @@ export const hd_1_18_Series_14: IMotorcycle[] = [
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
-		name: '1993 FLSTN Heritage Softail',
+		name: '1993 FLSTN Heritage Softail Nostalgia',
 		productCode: '',
 		series: 'Series 14 Collection',
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: 'hd-1-18/series-14/S-14-06-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-14/S-14-06-Photoroom.jpg',
+		isEnabled: true,
 	}
 ];

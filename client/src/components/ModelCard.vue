@@ -1,6 +1,7 @@
 <script setup lang="ts">
 	import { defineComponent } from 'vue';
-	import { Card, CardMeta } from 'ant-design-vue';
+	import { Card, CardMeta, Space } from 'ant-design-vue';
+	import { CheckCircleFilled, DollarOutlined } from '@ant-design/icons-vue'
 	import type { IMotorcycle } from '@/interfaces/IMotorcycle';
 
 	defineComponent({
@@ -14,22 +15,23 @@
 
 <template>
 	<Card hoverable
-		  class="hd-1-18-model-card"
-		  size="small">
+		  class="hd-1-18-model-card">
 		<template #cover>
 			<img alt="example"
 				 :src="`/${model.catalogImage}`" />
 		</template>
-		<!-- <template #extra>
-			<span>extra</span>
+		<template #extra>
+			<Space>
+				<CheckCircleFilled v-show="model.isEnabled"
+								   :style="{ fontSize: '32px', color: 'green' }" />
+				<DollarOutlined v-show="model.isOrdered"
+								:style="{ fontSize: '32px', color: 'green' }" />
+			</Space>
 		</template>
-		<template #actions>
+		<!-- <template #actions>
 			<span>action 1</span>
 			<span>action 1</span>
 			<span>action 1</span>
-		</template> -->
-		<!-- <template #title>
-			<span>{{ model.name }}</span>
 		</template> -->
 		<CardMeta :title="model.name" />
 	</Card>

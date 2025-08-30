@@ -10,7 +10,8 @@ export const hd_1_18_Series_40: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-40/S-40-01-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-40/S-40-01-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
@@ -21,7 +22,8 @@ export const hd_1_18_Series_40: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-40/S-40-02-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-40/S-40-02-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
@@ -32,7 +34,8 @@ export const hd_1_18_Series_40: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-40/S-40-03-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-40/S-40-03-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
@@ -54,17 +57,19 @@ export const hd_1_18_Series_40: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-40/S-40-05-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-40/S-40-05-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
 		brand: 'Harley-Davidson',
 		series: 'Series 40 Collection',
-		name: 'XR750',
+		name: '1972 XR750 Racing Bike',
 		scale: '1:18',
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-40/S-40-06-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-40/S-40-06-Photoroom.jpg',
+		isEnabled: true,
 	}
 ];

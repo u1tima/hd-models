@@ -21,7 +21,8 @@ export const hd_1_18_Series_6: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: 'hd-1-18/series-06/S-06-02 1999 FLSTS Heritage Springer.jpg'
+		catalogImage: 'hd-1-18/series-06/S-06-02 1999 FLSTS Heritage Springer.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
@@ -32,7 +33,8 @@ export const hd_1_18_Series_6: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: 'hd-1-18/series-06/S-06-03 1999 FLHR Road King.jpg'
+		catalogImage: 'hd-1-18/series-06/S-06-03-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
@@ -43,7 +45,8 @@ export const hd_1_18_Series_6: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: 'hd-1-18/series-06/S-06-04 1999 FXDL Dyna Low Rider.jpg'
+		catalogImage: 'hd-1-18/series-06/S-06-04 1999 FXDL Dyna Low Rider.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',

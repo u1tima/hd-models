@@ -10,7 +10,8 @@ export const hd_1_18_Series_2: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		catalogImage: 'hd-1-18/series-02/S-02-01-Photoroom.jpg',
-		images: []
+		images: [],
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
@@ -43,7 +44,8 @@ export const hd_1_18_Series_2: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		catalogImage: 'hd-1-18/series-02/S-02-04-Photoroom.jpg',
-		images: []
+		images: [],
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',

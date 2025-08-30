@@ -21,7 +21,8 @@ export const hd_1_18_Series_American_Legend: IMotorcycle[] = [
 		productCode: '#39750',
 		color: '',
 		images: [],
-		catalogImage: ''
+		catalogImage: '',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',

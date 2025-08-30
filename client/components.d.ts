@@ -8,6 +8,7 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
+    ACheckbox: typeof import('ant-design-vue/es')['Checkbox']
     Filters: typeof import('./src/components/layout/navbar/Filters.vue')['default']
     Main: typeof import('./src/components/layout/Main.vue')['default']
     Menu: typeof import('./src/components/layout/navbar/Menu.vue')['default']

@@ -10,7 +10,8 @@ export const hd_1_18_Series_44: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-44/S-44-01-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-44/S-44-01-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
@@ -32,7 +33,8 @@ export const hd_1_18_Series_44: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-44/S-44-03-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-44/S-44-03-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',

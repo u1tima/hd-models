@@ -21,7 +21,8 @@ export const hd_1_18_Series_13: IMotorcycle[] = [
 		scale: '1:18',
 		color: '',
 		images: [],
-		catalogImage: 'hd-1-18/series-13/S-13-02-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-13/S-13-02-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',
