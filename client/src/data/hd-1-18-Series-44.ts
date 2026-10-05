@@ -67,6 +67,7 @@ export const hd_1_18_Series_44: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-44/S-44-06-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-44/S-44-06-Photoroom.jpg',
+		isOrdered: true,
 	}
 ];

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 	import { defineComponent } from 'vue';
 	import { Card, CardMeta, Space } from 'ant-design-vue';
-	import { CheckCircleFilled, DollarOutlined } from '@ant-design/icons-vue'
+	import { CheckCircleFilled, DollarOutlined } from '@ant-design/icons-vue';
 	import type { IMotorcycle } from '@/interfaces/IMotorcycle';
 
 	defineComponent({

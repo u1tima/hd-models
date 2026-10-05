@@ -22,7 +22,8 @@ export const hd_1_18_Series_43: IMotorcycle[] = [
 		color: '',
 		images: [],
 		productCode: '',
-		catalogImage: 'hd-1-18/series-43/S-43-02-Photoroom.jpg'
+		catalogImage: 'hd-1-18/series-43/S-43-02-Photoroom.jpg',
+		isEnabled: true,
 	},
 	{
 		manufacture: 'Maisto',

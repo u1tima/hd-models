@@ -26,8 +26,9 @@
 
 <style lang="scss">
 	.series-card {
-		width: min-content;
+		margin: 0 auto;
 		margin-bottom: 20px;
+		width: min-content;
 
 		&:last-child {
 			margin-bottom: 0;

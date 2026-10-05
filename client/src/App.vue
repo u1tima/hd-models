@@ -2,10 +2,6 @@
 	import { ConfigProvider, StyleProvider } from 'ant-design-vue';
 	import Navbar from '@/components/layout/navbar/Navbar.vue';
 	import Main from '@/components/layout/Main.vue';
-	import SeriesCard from '@/components/SeriesCard.vue';
-	import { useModelStore } from './stores';
-
-	const { result } = useModelStore();
 </script>
 
 <template>
@@ -13,10 +9,7 @@
 		<StyleProvider hash-priority="high">
 			<Navbar />
 			<Main>
-				<SeriesCard v-for="series in result"
-							:key="series.name"
-							:title="series.name"
-							:models="series.models" />
+				<RouterView />
 			</Main>
 		</StyleProvider>
 	</ConfigProvider>
