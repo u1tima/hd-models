@@ -62,6 +62,10 @@ const vueConfig = [
 			},
 		},
 		rules: {
+			// Авто-импорты Nuxt (definePageMeta, useHead и прочие) и глобальные типы
+			// ESLint не видит, а TypeScript их знает через .nuxt/imports.d.ts,
+			// поэтому дублирующая проверка здесь только даёт ложные срабатывания.
+			'no-undef': 'off',
 			'vue/script-indent': ['error', 'tab', { baseIndent: 1, switchCase: 1 }],
 			'vue/multi-word-component-names': 'off',
 			'vue/no-reserved-component-names': ['error', {

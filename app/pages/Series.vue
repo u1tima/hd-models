@@ -1,15 +1,9 @@
 <script setup lang="ts">
-	import { defineComponent } from 'vue';
+	import { storeToRefs } from 'pinia';
 	import SeriesCard from '@/components/SeriesCard.vue';
 	import { useModelStore } from '@/stores';
-	import type { IMotorcycle } from '@/interfaces/IMotorcycle';
 
-	defineComponent({
-		name: 'Series',
-	});
-
-	const { result } = useModelStore();
-
+	const { result } = storeToRefs(useModelStore());
 </script>
 
 <template>
