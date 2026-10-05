@@ -29,4 +29,15 @@ export default defineNuxtConfig({
 	typescript: {
 		strict: true,
 	},
+
+	// Единственный источник правды по подключению к базе.
+	// Значения переопределяются переменными окружения NUXT_MYSQL_*.
+	runtimeConfig: {
+		mysql: {
+			host: '',
+			database: '',
+			user: '',
+			password: '',
+		},
+	},
 });

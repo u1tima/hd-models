@@ -11,9 +11,6 @@ const ignoresConfig = [{
 		'.nuxt/**',
 		'.output/**',
 		'public/**',
-		// Старый клиент исключён, пока идёт миграция на Nuxt.
-		'client/**',
-		'server/**',
 	]
 }];
 

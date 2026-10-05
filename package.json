@@ -17,6 +17,7 @@
 		"@ant-design/icons-vue": "^7.0.1",
 		"@pinia/nuxt": "^1.0.2",
 		"ant-design-vue": "^4.2.6",
+		"mysql2": "^3.24.5",
 		"nuxt": "^4.5.2",
 		"pinia": "^4.0.3",
 		"vue": "^3.5.43"

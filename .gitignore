@@ -3,9 +3,6 @@ node_modules/
 yarn-error.log
 
 # Корневой yarn.lock отслеживается намеренно: фиксирует версии зависимостей.
-# Локфайлы старого клиента и сервера не отслеживаются.
-client/yarn.lock
-server/yarn.lock
 
 # Nuxt
 .nuxt/
